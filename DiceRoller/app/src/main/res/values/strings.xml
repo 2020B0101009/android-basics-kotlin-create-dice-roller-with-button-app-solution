@@ -1,4 +1,4 @@
-<!-- Copyright (C) 2020 The Android Open Source Project
+5<!-- Copyright (C) 2020 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -13,6 +13,8 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">Dice Roller</string>
-    <string name="roll">Roll</string>
+    <string name="app_name">Real_time_Dice_Roller</string>
+    <string name="roll">dice_Roll</string>
+     <string name="ankit_ka_app">Dice_Roller</string>
+    <string name="dice_roll">Roll_dice</string>
 </resources>
