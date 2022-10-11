@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
 
         // Find the Button in the layout
         val roll_Button: Button = findViewById(R.id.button)
-
+        Toast.makeText(this, "Prashant", Toast.LENGTH_LONG).show();
         // Set a click listener on the button to roll the dice when the user taps the button
         roll_Button.setOnClickListener { rollDice() }
     }
