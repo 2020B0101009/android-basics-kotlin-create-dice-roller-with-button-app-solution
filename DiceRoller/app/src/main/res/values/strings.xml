@@ -13,8 +13,8 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">Real_time_Dice_Roller</string>
-    <string name="roll">dice_Roll</string>
-     <string name="ankit_ka_app">Dice_Roller</string>
-    <string name="dice_roll">Roll_dice</string>
+    <string name="app_name">Real_time_Dice</string>
+    <string name="start">dice_Roll</string>
+     <string name="ankit_ka_app">DiceRollr</string>
+    <string name="roll">Roll_dice</string>
 </resources>
