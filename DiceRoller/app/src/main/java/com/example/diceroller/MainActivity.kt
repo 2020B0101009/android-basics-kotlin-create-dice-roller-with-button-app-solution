@@ -34,10 +34,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // Find the Button in the layout
-        val rollButton: Button = findViewById(R.id.button)
+        val roll_Button: Button = findViewById(R.id.button)
 
         // Set a click listener on the button to roll the dice when the user taps the button
-        rollButton.setOnClickListener { rollDice() }
+        roll_Button.setOnClickListener { rollDice() }
     }
 
     /**
@@ -45,12 +45,12 @@ class MainActivity : AppCompatActivity() {
      */
     private fun rollDice() {
         // Create new Dice object with 6 sides and roll it
-        val dice = Dice(6)
-        val diceRoll = dice.roll()
+        val roll_dice = Dice(6)
+        val diceRoll = roll_dice.roll()
 
         // Update the screen with the dice roll
-        val resultTextView: TextView = findViewById(R.id.textView)
-        resultTextView.text = diceRoll.toString()
+        val result_TextView: TextView = findViewById(R.id.textView)
+        result_TextView.text = diceRoll.toString()
     }
 }
 
