@@ -15,10 +15,10 @@
 -->
 <resources>
     <color name="colorPrimary">#6200EE</color>
-    <color name="colorSecondary">#5278E6</color>
-    <color name="colorTertiary">#1233A2</color>
-    <color name="color4">#897642</color>
-    <color name="color5">#12E323</color>
+    <color name="color3">#5278E6</color>
+    <color name="color6>#1233A2</color>
+    <color name="color9">#897642</color>
+    <color name="color4">#12E323</color>
     <color name="color1">#6200EF</color>
     <color name="colorPrimaryDark">#3700B3</color>
      <color name="color2">#6200FE</color>
